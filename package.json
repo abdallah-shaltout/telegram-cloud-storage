@@ -1,0 +1,32 @@
+{
+  "name": "vuejs-typescript",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@types/highlight.js": "^10.1.0",
+    "axios": "^1.4.0",
+    "firebase": "^9.22.0",
+    "highlight.js": "^11.8.0",
+    "pinia": "^2.0.35",
+    "surge": "^0.23.1",
+    "vue": "^3.2.47",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.13",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.1",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.0",
+    "vite-svg-loader": "^4.0.0",
+    "vue-tsc": "^1.2.0"
+  }
+}
