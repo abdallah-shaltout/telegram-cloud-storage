@@ -1,6 +1,6 @@
 # Telegram Cloud Storage
 
-![Telegram Cloud Storage](https://your-image-url.com)
+![Telegram Cloud Storage](./src/assets/images/github.jpg)
 
 Welcome to the Telegram Cloud Storage repository! This project allows you to easily upload and download various types of files, including photos, audio files, and documents, using Telegram's API. With this cloud storage solution, you'll have access to unlimited storage space while adhering to Telegram's API limits.
 
